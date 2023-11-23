@@ -23,9 +23,12 @@
 <li><code>git clone https://github.com/TartejBrothers/The-Air-Force-School.git</code></li>
 </ul><ul>
 <li><code>cd the-air-force-school-main</code></li>
-</ul><h2>Improvements</h2>
+
+</ul>
+<h2>Project Status</h2>
+<hr><p>The website is ready and hosted <a href="https://theairforceschool.web.app/">here</a></p><h2>Improvements</h2>
 <hr><ul>
-<li>More Pages can be added</li>
+<li>Separate Pages can be added instead of Single Page Website.</li>
 </ul><ul>
 <li>Attendance data can be added.</li>
 </ul><ul>
