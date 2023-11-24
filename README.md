@@ -18,7 +18,7 @@
 </ul><ul>
 <li>Clean UI</li>
 </ul><h2>Screenshots</h2>
-<hr><p><img src="readme/1.jpg" alt=""></p><p><img src="readme/2.jpg" alt=""></p><p><img src="readme/2.jpg" alt=""></p><h2>Setup</h2>
+<hr><p><img src="readme/1.jpg" alt=""></p><p><img src="readme/2.jpg" alt=""></p><p><img src="readme/3.jpg" alt=""></p><h2>Setup</h2>
 <hr><p>Download the repository and open index.html in the browser.</p><h5>Steps</h5><ul>
 <li><code>git clone https://github.com/TartejBrothers/The-Air-Force-School.git</code></li>
 </ul><ul>
